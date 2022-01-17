@@ -29,6 +29,6 @@ What type of cheese is made backwards?
 
   -edam
 
-What type of cheese doesn't belong to you?
+What type of cheese doesnt belong to you?
 
   -Nacho cheese
