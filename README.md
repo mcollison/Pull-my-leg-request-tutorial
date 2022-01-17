@@ -3,7 +3,7 @@ An open challenge to submit comical punchlines to my jokes to demonstrate how pu
 
 Why did the chicken cross the road? 
 
-What is orange and sounds like a parrot? 
+What is orange and sounds like a parrot? carrot
 
 What did the cheese say to the mirror? 
 
@@ -15,4 +15,4 @@ What type of cheese do you use if you need to hide a horse?
 
 What type of cheese is made backwards?
 
-What type of cheese doesnt belong to you?
+What type of cheese doesnt belong to you? Nacho cheese
