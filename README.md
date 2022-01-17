@@ -5,6 +5,8 @@ Why did the chicken cross the road?
 
 What is orange and sounds like a parrot? 
 
+Donald Trump
+
 What did the cheese say to the mirror? 
 
 How should you teach complex computer science? 
