@@ -9,7 +9,7 @@ What did the cheese say to the mirror?
 
 How should you teach complex computer science? 
 
-What did the ocean say to the beach?
+What did the ocean say to the beach? wave
 
 What type of cheese do you use if you need to hide a horse?
 
