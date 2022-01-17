@@ -25,3 +25,5 @@ The semi-hard cheese originated in the Netherlands and is actually named after t
 
 What type of cheese doesnt belong to you?
 The cheese belongs to the cow technically
+
+This is Jack's change as a collaborator
