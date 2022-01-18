@@ -16,3 +16,5 @@ What type of cheese do you use if you need to hide a horse?
 What type of cheese is made backwards?
 
 What type of cheese doesnt belong to you?
+
+You spot a boat full of people but there isn’t a single person on board. How is that possible?
