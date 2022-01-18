@@ -16,3 +16,7 @@ What type of cheese do you use if you need to hide a horse?
 What type of cheese is made backwards?
 
 What type of cheese doesnt belong to you?
+
+My wife asked me to stop singing “Wonderwall” to her. I said maybe…
+
+Why do some couples go to the gym? Because they want their relationship to work out.
