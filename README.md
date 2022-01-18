@@ -2,7 +2,6 @@
 An open challenge to submit comical punchlines to my jokes to demonstrate how pull requests can enable collaborative working. 
 
 Why did the chicken cross the road?
-To get to KFC
 
 What is orange and sounds like a parrot?
 
