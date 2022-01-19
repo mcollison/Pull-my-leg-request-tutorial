@@ -1,18 +1,13 @@
 # Pull [my leg] request tutorial
 An open challenge to submit comical punchlines to my jokes to demonstrate how pull requests can enable collaborative working. 
 
-Why did the chicken cross the road? 
+NO. Here's my own:
 
-What is orange and sounds like a parrot? 
+1. What did the aged cheddar say when his mom told him he couldn’t see a movie that was rated R?
+	- "I'm mature for my age"
 
-What did the cheese say to the mirror? 
+2. What did the grilled cheese say to their date?
+	- "You make me melt"
 
-How should you teach complex computer science? 
-
-What did the ocean say to the beach?
-
-What type of cheese do you use if you need to hide a horse?
-
-What type of cheese is made backwards?
-
-What type of cheese doesnt belong to you?
+3. What did the cheese call himself when he got dumped?
+	- "Forever Provolone"
