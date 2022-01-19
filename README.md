@@ -16,3 +16,17 @@ What type of cheese do you use if you need to hide a horse? Mascarpone - Mask a 
 What type of cheese is made backwards? edam.
 
 What type of cheese doesnt belong to you? Nacho cheese.
+
+----------------New Jokes--------------------
+
+I wonder what my parents did to fight boredom before the internet… I asked my 18 brothers and sisters and they didn't know either.
+
+Why do sharks eat underwater internet cables?  They were advised to have more fiber in their diet.
+
+There are a lot of scams on the internet... For a low price of $69 I can show you how to avoid them.
+
+Why do babies want to use the internet? So they can Google Gaga.
+
+Guys, I just read something on the internet saying that Albert Einstein may not have existed! Turns out he's just a theoretical physicist.
+
+Did you hear the news about Microsoft retiring Internet Explorer in 2022? I don’t know about you, but I’m on edge over it.
