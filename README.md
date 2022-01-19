@@ -7,12 +7,12 @@ What is orange and sounds like a parrot?
 
 What did the cheese say to the mirror? 
 
-How should you teach complex computer science? 
+How should you teach complex computer science? bit by bit
 
-What did the ocean say to the beach?
+What did the ocean say to the beach? 
 
-What type of cheese do you use if you need to hide a horse?
+What type of cheese do you use if you need to hide a horse? mascarpone
 
-What type of cheese is made backwards?
+What type of cheese is made backwards? edam
 
-What type of cheese doesnt belong to you?
+What type of cheese doesnt belong to you? 
