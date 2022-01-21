@@ -5,7 +5,7 @@ Why did the chicken cross the road?
 
 What is orange and sounds like a parrot? 
 
-What did the cheese say to the mirror? 
+What did the cheese say to the mirror? LEMON
 
 How should you teach complex computer science? 
 
