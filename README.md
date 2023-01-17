@@ -10,9 +10,10 @@ What did the cheese say to the mirror?
 How should you teach complex computer science? 
 
 What did the ocean say to the beach?
-
+  it just waved
 What type of cheese do you use if you need to hide a horse?
 
 What type of cheese is made backwards?
-
+  Edam Cheese
 What type of cheese doesnt belong to you?
+  Nacho Cheese
