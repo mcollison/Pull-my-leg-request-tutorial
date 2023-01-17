@@ -1,18 +1,18 @@
 # Pull [my leg] request tutorial
 An open challenge to submit comical punchlines to my jokes to demonstrate how pull requests can enable collaborative working. 
 
-Why did the chicken cross the road? 
+What do you call a chicken crossing the road? Poultry in motion
 
-What is orange and sounds like a parrot? 
+What is the leading cause of bird bankruptcy? Bad investments in the stork market
 
-What did the cheese say to the mirror? 
+What did the cheese say to the mirror? You gouda brie kidding me?
 
-How should you teach complex computer science? 
+How does vampirisim spread across a network? Vampire bytes.
 
-What did the ocean say to the beach?
+What did the ocean say to the beach? I am sick and tide of these puns
 
-What type of cheese do you use if you need to hide a horse?
+What type of cheese do you use if you need to hide a horse? A really good lawyer
 
-What type of cheese is made backwards?
+What type of cheese doesnt belong to you? One that is steadily getting feta up with you
 
-What type of cheese doesnt belong to you?
+What type of cheese does belong to you? Mozzarella Firefox (it is open source)
