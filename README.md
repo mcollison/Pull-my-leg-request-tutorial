@@ -1,18 +1,35 @@
 # Pull [my leg] request tutorial
-An open challenge to submit comical punchlines to my jokes to demonstrate how pull requests can enable collaborative working. 
 
-Why did the chicken cross the road? 
+An open challenge to submit comical punchlines to my jokes to demonstrate how pull requests can enable collaborative working.
 
-What is orange and sounds like a parrot? 
+Why did the chicken cross the road?
 
-What did the cheese say to the mirror? 
+To get to the other side
 
-How should you teach complex computer science? 
+What is orange and sounds like a parrot?
+
+A carrot.
+
+What did the cheese say to the mirror?
+
+Halloumi.
+
+How should you teach complex computer science?
+
+"With a lot of patience and a little bit of cheese."
 
 What did the ocean say to the beach?
 
+It waved.
+
 What type of cheese do you use if you need to hide a horse?
+
+Swiss, because it's really good at keeping things horse.
 
 What type of cheese is made backwards?
 
+Edam.
+
 What type of cheese doesnt belong to you?
+
+Nacho cheese.
