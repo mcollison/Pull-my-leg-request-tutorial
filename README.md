@@ -11,7 +11,7 @@ What did the cheese say to the mirror?
 Halloumi
 
 How should you teach complex computer science? 
-There are many ways to teach complex computer science concepts, but some effective strategies include:
+######There are many ways to teach complex computer science concepts, but some effective strategies include:
   - Breaking down the material into smaller, manageable chunks and building on prior knowledge.
   - Using hands-on activities and real-world examples to help students connect the material to their own experiences.
   - Incorporating visual aids and interactive tools to help students better understand the concepts.
